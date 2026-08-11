@@ -6,18 +6,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=rahul656676&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahul656676&theme=radical&hide_border=true&background=0D1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul656676&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=rahul656676&theme=radical&no-frame=true&no-bg=true&margin-w=15)
-
----
-
 ### 🛠️ Tech Stack & Tools
 
 ![Skills](https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,django,fastapi)
