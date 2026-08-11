@@ -1,22 +1,22 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0D1117&height=300&section=header&text=Rahul%20Jangir&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20|%20ML%20%26%20Generative%20AI&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:000000,100:0D1117&amp;height=300&amp;section=header&amp;text=Rahul%20Jangir&amp;fontSize=90&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI%20Developer%20|%20ML%20%26%20Generative%20AI&amp;descAlignY=51&amp;descAlign=62" />
   
   <br />
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Conversational+AI;Machine+Learning+Enthusiast;Passionate+about+Cloud+%26+AWS;Always+learning+new+tech..." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=500&amp;size=24&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+Conversational+AI;Machine+Learning+Enthusiast;Passionate+about+Cloud+%26+AWS;Always+learning+new+tech..." alt="Typing SVG" /></a>
   
   <br />
   
   <p align="center">
-    <a href="https://github.com/rahul656676"><img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=rahul656676&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
-    <a href="https://github.com/rahul656676"><img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul656676&theme=radical&hide_border=true&background=0D1117" /></a>
+    <a href="https://github.com/rahul656676"><img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=rahul656676&amp;show_icons=true&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117" /></a>
+    <a href="https://github.com/rahul656676"><img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul656676&amp;theme=radical&amp;hide_border=true&amp;background=0D1117" /></a>
   </p>
 
   <p align="center">
-    <a href="https://github.com/rahul656676"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul656676&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/rahul656676"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul656676&amp;layout=compact&amp;theme=radical&amp;hide_border=true&amp;bg_color=0D1117" /></a>
   </p>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=rahul656676&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rahul656676&amp;theme=radical&amp;no-frame=true&amp;no-bg=true&amp;margin-w=15" />
 </div>
 
 <br/>
