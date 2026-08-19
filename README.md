@@ -16,6 +16,16 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rahul656676&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="rahul656676 trophies" />
+  </a>
+</p>
+
+---
+
 ### 🐍 My GitHub Contribution Snake
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/rahul656676/rahul656676/output/github-contribution-grid-snake-dark.svg?v=3)
