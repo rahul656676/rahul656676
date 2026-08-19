@@ -16,11 +16,11 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 🔥 GitHub Streak Stats
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rahul656676&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="rahul656676 trophies" />
+  <a href="https://github.com/rahul656676">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul656676&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
   </a>
 </p>
 
