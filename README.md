@@ -18,7 +18,7 @@
 
 ### 🐍 My GitHub Contribution Snake
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/rahul656676/rahul656676/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/rahul656676/rahul656676/output/github-contribution-grid-snake.svg?v=2)
 
 <br/>
 
